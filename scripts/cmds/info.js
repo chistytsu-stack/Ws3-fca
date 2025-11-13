@@ -32,15 +32,15 @@ module.exports = {
   },
 
   sendInfo: async function (message) {
-    const botName = "SaGor";
-    const ownerName = "JAHIDUL ISLAM SAGOR";
-    const moderatedBy = "JAHIDUL ISLAM SAGOR";
+    const botName = "𒆜ʊռɨզʊɛ ɮøʏ 𒆜";
+    const ownerName = "PERSONAL";
+    const moderatedBy = "NO";
     const religion = "ISLAM";
     const botStatus = "SINGLE";
-    const address = "PANCHAGARH , DEBIGONJ";
-    const userClass = "INTER 1ST";
-    const facebook = "https://www.facebook.com/JAHIDUL.ISLAM.404";
-    const tiktok = "https://www.tiktok.com/@11sagor_islam";
+    const address = "DON'T SHOW";
+    const userClass = "EMPTY";
+    const facebook = "https://www.facebook.com/61583499069340";
+    const tiktok = "I'M NOT A CRINGE";
 
     const now = moment().tz('Asia/Dhaka');
     const localTime = now.format('hh:mm:ss A');
