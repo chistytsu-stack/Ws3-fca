@@ -1,8 +1,8 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
-    "2FASecret": "",
+    "email": "manunofficial244@gmail.com",
+    "password": "meheraz.com//10",
+    "2FASecret": "111111",
     "i_user": "",
     "proxy": null,
     "userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
@@ -17,15 +17,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61579792988640",
-    "61580027264521"
+    "61583499069340",
+    "100023789902793"
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": [],
+    "whiteListIds": ["enable"],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "🍁<SAGOR-BOT>🍁",
+  "nickNameBot": "𒆜ʊռɨզʊɛ ɮøʏ 𒆜",
   "prefix": "-",
   "database": {
     "type": "sqlite",
