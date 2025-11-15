@@ -21,11 +21,11 @@ module.exports = {
     author: "Vex_Kshitiz",
     version: "1.0",
     cooldowns: 5,
-    role: 0,
+    role: 1,
     shortDescription: "18+ TikTok video",
     longDescription: "18+ TikTok video",
     category: "18+",
-    guide: "{p}uff"
+    guide: "{p}porn"
   },
 
   onStart: async function ({ api, event, args, message }) {
