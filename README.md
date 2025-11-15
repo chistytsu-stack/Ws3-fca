@@ -1,4 +1,4 @@
-<h1 align="center">🐐 GOAT BOT V2 - Powered by SAGOR 💫</h1>
+<h1 align="center">🐐 GOAT BOT V2 - Powered by MEHERAZ 💫</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/vO080jt.jpeg" width="180" alt="Goat Bot Logo"/>
